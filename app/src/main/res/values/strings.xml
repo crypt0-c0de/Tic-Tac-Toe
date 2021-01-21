@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="heading">Tic-Tac-Toe</string>
+    <string name="grid">our main grid</string>
+    <string name="reset">Reset</string>
+
+</resources>
